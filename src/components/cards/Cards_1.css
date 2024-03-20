@@ -1,0 +1,8 @@
+.card_1 {
+  transform: translateY(0px);
+  transition: transform 0.2s ease-in !important;
+}
+.card_1:hover {
+  transform: translateY(-10px);
+  cursor: pointer !important;
+}
