@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Lato:wght@400;700&family=Kalam&display=swap");
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.lato {
+  font-family: "Lato", sans-serif;
+}
+
+.kalam {
+  font-family: "Kalam", sans-serif !important;
+}
+
+.marginBottom20 {
+  margin-bottom: 20px !important;
+}
+
+.bglightBlue {
+  background-color: #574b8a;
+}
+
+.bgWhite {
+  background-color: #ffffff;
+}
+
+.bglight {
+  background-color: #f3f3f7;
+}
+
+.boxShadow {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.boxShadowCard {
+  box-shadow: none;
+  transition: box-shadow 0.4s !important;
+}
+
+.boxShadowCard:hover {
+  cursor: pointer !important;
+  box-shadow: 5px 5px 10px 1px #cccaca !important;
+}
+
+.marginBlock85 {
+  margin-block-start: 85px;
+}
+
+.margin20 {
+  margin: 20px !important;
+}
+.padding20 {
+  padding: 20px !important;
+}
+
+.paddingBlock128 {
+  padding-block: 128px;
+}
+
+.paddingInline12 {
+  padding-inline: 12px;
+}
+
+.divLine {
+  width: 100px;
+  height: 3px;
+  background-color: #ffa949;
+  border-radius: 5px;
+}
+
+.boxDisplayFlex {
+  display: flex;
+}
+
+.displayFlex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.whiteText {
+  color: #ffffff !important;
+}
+
+.purpleText {
+  color: #574b8a !important;
+}
+
+.blackColor {
+  color: #161515 !important;
+}
+
+.lightDarkIcon {
+  color: #757575 !important;
+}
+
+.font44 {
+  font-size: 44px !important;
+}
+
+.font21 {
+  font-size: 21px !important;
+}
+
+.font12 {
+  font-size: 12px !important;
+}
+
+.font700 {
+  font-weight: 700 !important;
+}
+
+.imgStyle {
+  position: absolute;
+  top: 423px;
+}
+
+.lineHeight24 {
+  line-height: 24px !important;
+}
+
+.borderRadius16 {
+  border-radius: 16px !important;
+}
